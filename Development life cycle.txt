@@ -1,0 +1,58 @@
+						      Development life cycle
+1. Requirement:
+   - Người tham gia: 
+       +) Stake holder: customer, enduser,...
+       +) Business analyst(BA): viết document
+       +) Project manager
+       +) Technical Team
+       +) Quality assurance(QA): Tester
+       +) Designers(UI,UX)
+
+   - Output:
+       +) Requirement document
+  
+2, Analysis:
+   - Người tham gia:
+       +) Business analyst(BA)
+       +) Project manager(PM)
+       +) System analyst/Architects: lường trước các công nghệ
+
+   - Các biểu đồ:
+       +) Use case, class, sequence, activity
+
+3, Design:
+   - Người tham gia:
+       +) UI/UX design: thiết kế giao diện hệ thống
+       +) Software Architect(SA): thiết kế kiến trúc hệ thống
+       +) PM
+
+4, Inplementation:
+   - Người tham gia:
+       +) PM
+       +) Developer: Frontend
+       +) Engineer: Backend
+       +) Devops
+
+5, Testing:
+   - Người tham gia:
+       +) QA
+       +) Tester
+   - Output:
+       +) Manuel test
+       +) Automatic test
+       +) Api test
+
+   # Nếu 
+
+6, Hand over:
+   - Người tham gia:
+       +) Traning staff
+       +) Stake holder: customer
+       +) PM
+       +) QA
+   - Output:
+       +) Document specialist: hướng dẫn người dùng, tài liệu hệ thống
+
+7, Maintenance:
+   - Giống 1 vòng bên trên
+
