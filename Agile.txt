@@ -1,0 +1,51 @@
+					Agile
+I, Triết lý Agile:
+   +) Nhanh chóng thích ứng, phản hồi với sự thay đổi
+   --> Giải quyết vấn đề của Waterfall
+
+II, 4 tuyên ngôn:
+    1, Cá nhân và sự hợp tác > quy trình, công cụ
+    2, Phần mềm chạy tốt > tài liệu đầy đủ
+    3, Cộng tác với khách hàng > đàm phán hợp đồng
+    4, Phản hồi với sự thay đổi > bám vào kế hoạch
+
+III, 12 nguyên tắc:
+    1, Ưu tiên cao nhất của chúng tôi là thỏa mãn khách hàng thông qua việc 
+       chuyển giao sớm và liên tục các phần mềm có giá trị. 
+
+    2, Chào đón việc thay đổi yêu cầu, thậm chí rất muộn trong quá trình phát triển. 
+       Các quy trình linh hoạt tận dụng sự thay đổi trong các lợi thế cạnh tranh của khách hàng.
+    
+    3, Thường xuyên chuyển giao phần mềm chạy tốt tới khách hàng, có thể là 2, 3 hoặc 4 tuần.
+
+    4, Nhà kinh doanh và nhà phát triển phải làm việc cùng nhau hàng ngày trong suốt dự án.
+
+    5, Xây dựng các dự án xung quanh những cá nhân có động lực. Cung cấp cho họ môi trường 
+       và sự hỗ trợ cần thiết, và tin tưởng họ để hoàn thành công việc.
+
+    6, Hội thoại trực tiếp là phương pháp tốt nhất để truyền đạt thông tin.
+
+    7, Phần mềm chạy tốt là thước đo chính của tiến độ.
+  
+    8, Các quy trình linh hoạt thúc đẩy phát triển bền vững.
+
+    9, Liên tục quan tâm đến các kỹ thuật và thiết kế tốt để gia tăng sự linh hoạt.
+
+    10, Sự đơn giản – nghệ thuật tối đa hóa lượng công việc chưa xong – là căn bản.
+
+    11, Nhóm phát triển sẽ thường xuyên suy nghĩ về việc làm sao để trở nên hiệu quả hơn, sau đó 
+        họ sẽ điều chỉnh và thay đổi các hành vi của mình cho phù hợp. 
+    
+    12, Các kiến trúc tốt nhất, yêu cầu tốt nhất và thiết kế tốt nhất sẽ được làm ra bởi các nhóm tự tổ chức.
+
+IV, Chiếc ô Agile
+    -Scrum
+    -Canban
+    -Scrumban
+    -Spotify
+    -LSD
+   
+
+
+
+
