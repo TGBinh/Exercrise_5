@@ -1,0 +1,56 @@
+							Waterfall
+1, Why?
+   - Yêu cầu được xác định rõ
+   - Môi trường phát triển ổn định
+   - Dễ hiểu, dễ triển khai, dễ theo dõi tiến độ hoàn thành
+   - Có tài liệu thiết kế sớm
+
+2, What?
+   - Requirements: Làm rõ yêu cầu: 
+       +) Chức năng
+       +) Phi chức năng
+   
+   - Design: 
+       +) Tài liệu phân tích thiết kế
+       +) Biểu đồ UML: use case, class, data flow
+       +) Giao diện người dùng: Figma,...
+       +) High level design
+       +) High availability
+  
+   - Development:
+       +) Viết code
+       +) Code frontend, backend
+       +) Thuật toán
+
+   - Software Testing:
+       +) Unit test          (Test đơn vị: từng phần)
+       +) Intergration test  (Tích hợp: nhiều phần)
+       +) System test        (Test lại)
+       +) Acceptance test    (Test lần cuối)
+
+   - Deploy:
+       +) Chạy code trên server
+       +) Hệ thống có thể được truy cập
+
+   - Maintenace:
+       +) Sửa lỗi phát sinh sau khi deploy hệ thống mà người dùng phản hồi
+       +) Thường sẽ xuất hiện trong thời gian ngắn
+
+3, How?
+   - Ưu điểm:
+       +) Có quy trình rõ ràng --> dễ quản lý
+       +) Thực hiện tuần tự --> có tính ổn định cao, đơn giản, dễ hiểu, dễ sử dụng
+
+   - Nhược điểm:
+       +) Không linh họat
+       +) Khó phát hiện lỗi
+       +) không phù hợp với các dự án phức tạp
+
+   Lỗi hồi quy: Khi gặp lỗi sẽ phải quay lại thực hiện từng bước tuần tự từ đầu
+
+4, Một số ví dụ về các dự án phù hợp với mô hình Waterfall:
+       +) Phát triển phần mềm
+       +) Xây dựng cơ sở hạ tầng
+       +) Thiết kế sản phẩm
+       +) Nghiên cứu và phát triển
+
