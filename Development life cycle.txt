@@ -42,7 +42,8 @@
        +) Automatic test
        +) Api test
 
-   # Nếu 
+   # Nếu là product thì sau khi test --> publish --> Kiểm tra thông số --> Học hỏi
+   # Nếu là oursource --> Hand over
 
 6, Hand over:
    - Người tham gia:
